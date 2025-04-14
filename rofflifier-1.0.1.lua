@@ -145,7 +145,7 @@ local function init()
 
     -- Purple Seal
 
-    G.localization.descriptions.Other["purple_seal"].name = {
+    --[[G.localization.descriptions.Other["purple_seal"].name = {
         "Purple",
     }
 
@@ -155,7 +155,7 @@ local function init()
         "card in your hand",
     }
 
-    --[[G.localization.misc.labels["purple_seal"] = {
+    G.localization.misc.labels["purple_seal"] = {
         "Purple",
     }--]]
 
