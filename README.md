@@ -1,4 +1,4 @@
-# Balatro Rofflifier v1.0.1
+# Balatro Rofflifier v1.0.2
 Turns some text into Roffle references  
 Used framework from Bala-gay (https://github.com/GitNether/balagay) because I don't know how to use Lua  
 
@@ -31,8 +31,7 @@ List of Changes
   * Petroglyph - Further Back In Time  
   * Hermit - Hermie  
   * Wheel of Fortune - Hweel Me  
-  * Hanged Man - Hung Man  
-  * Endless Mode - Keep It Goin  
+  * Hanged Man - Hung Man   
   * Ectoplasm - Ectogasm  
   * The Club - The Clurb  
   * The Head - Head  
@@ -41,7 +40,8 @@ List of Changes
   To be implemented -  
   * Stone Card - Rock  
   * Polychrome - Shiny
-  * Purple Seal - Purple 
+  * Purple Seal - Purple  
+  * Endless Mode - Keep It Goin   
 
   
 </details>

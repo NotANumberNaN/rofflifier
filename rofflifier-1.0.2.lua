@@ -139,9 +139,9 @@ local function init()
 
     -- Endless Mods
 
-    G.localization.misc.dictionary["b_endless"] = {
+    --[[G.localization.misc.dictionary["b_endless"] = {
         "Keep It Goin",
-    }
+    }]]--
 
     -- Purple Seal
 
